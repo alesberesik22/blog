@@ -1,0 +1,15 @@
+.postCard {
+  height: 15rem;
+  width: 12rem;
+  background-color: white;
+  color: black;
+  border-radius: 7px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  gap: 20px;
+  box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px,
+    rgba(131, 131, 131, 0.8) -2px -2px 10px 2px;
+}
